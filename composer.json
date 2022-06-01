@@ -17,5 +17,5 @@
 		"psr-4": {
 			"primakurzy\\Shortcode\\": "src/"
 		}
-	},
+	}
 }
