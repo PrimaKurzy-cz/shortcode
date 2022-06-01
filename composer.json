@@ -11,11 +11,11 @@
 	"license": "MIT",
 	"require": {},
 	"require": {
-        "thunderer/shortcode": ">=0.7"
-    },
+		"thunderer/shortcode": ">=0.7"
+	},
 	"autoload": {
-        "psr-4": {
-            "primakurzy\\Shortcode\\": "src/"
-        }
-    },
+		"psr-4": {
+			"primakurzy\\Shortcode\\": "src/"
+		}
+	},
 }
