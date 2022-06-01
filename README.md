@@ -1,4 +1,4 @@
-# PrimaKurzy.cz Shortcode Helper Library
+# PrimaKurzy.cz Shortcode Processor Helper Library
 
 Library Is For Educational Purposes Only
 
@@ -28,7 +28,7 @@ otherwise:
 
 ```php
 <?php
-require "path/to/Shortcode.php";
+require "path/to/src/Processor.php";
 // ...
 ```
 
@@ -37,5 +37,5 @@ require "path/to/Shortcode.php";
 
 ```php
 // call library function
-echo primakurzy\Shortcode::process('folder/with/shortcodes', 'random number: [rand from=5 to=10]');
+echo primakurzy\Shortcode\Processor::process('folder/with/shortcodes', 'random number: [rand from=5 to=10]');
 ```
