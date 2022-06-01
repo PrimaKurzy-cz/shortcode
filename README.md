@@ -2,6 +2,8 @@
 
 Library Is For Educational Purposes Only
 
+This library is only helper for great library https://github.com/thunderer/Shortcode
+
 
 ## 1. Installation:
 
